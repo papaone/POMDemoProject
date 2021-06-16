@@ -3,5 +3,6 @@ package utilities;
 public enum Browsers {
     CHROME,
     FIREFOX,
-    OPERA
+    OPERA,
+    EDGE;
 }
